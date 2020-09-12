@@ -28,7 +28,7 @@
 # 使用範例
 
 ```
-npm i @tony801015/chinese-lunar -S
+npm i @gclinux/chinese-lunar -S
 ```
 
 ### 預設使用方式
